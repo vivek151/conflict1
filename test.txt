@@ -1,1 +1,1 @@
-Hi, this is line from user1
+Hi, this is line from user2
