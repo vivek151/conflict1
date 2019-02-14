@@ -1,9 +1,11 @@
 Hi, this is line from user
 Hi this is modification from user2
-<<<<<<< HEAD
+===================================
 Hi, this is line from user1
 This is master text file
-=======
+===================================
 This is second modification from user2
 This should raise a conflict
->>>>>>> second commit from user2
+===================================
+This is second modification from user1
+This will also be raising a conflict
