@@ -1,2 +1,4 @@
 Hi, this is line from user2
 Hi this is modification from user2
+Hi, this is line from user1
+This is master text file
