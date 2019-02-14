@@ -1,1 +1,2 @@
 Hi, this is line from user2
+Hi this is modification from user2
